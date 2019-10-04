@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS `poe`.`accounts`
+(
+    `id`    VARCHAR(32) NOT NULL PRIMARY KEY
+);
